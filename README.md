@@ -1,4 +1,4 @@
-# Dr. Link — AI-Powered Doctor Finder (Automation Module)  
+# Dr. Link 🥼 AI-Powered Doctor Finder
 **3rd Place — AI Agents Hackathon, Swafinix Technologies [(Unstop)](https://unstop.com/hackathons/ai-agents-hackathon-swafinix-technologies-pvt-ltd-1529586)**  
 
 <img width="956" height="409" alt="image" src="https://github.com/user-attachments/assets/0371a257-31a9-4e80-b56b-ebdc49060236" />  
