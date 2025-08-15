@@ -49,7 +49,7 @@ Outside the hackathon module, Dr. Link also includes:
 ---
 
 ## 🙌 Team  
-- **Rini Pradeep Pillai** — Automation & n8n integration  
+- **Rini Pillai** — Automation & n8n integration  
 - **Pavithran Pillai** — AI calling agent  
 - **Krishnapriya Padmajan** — Frontend design
   
